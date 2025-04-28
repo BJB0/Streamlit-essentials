@@ -2,7 +2,7 @@
 
 Hi there! 👋  
 This repository documents my hands-on journey of learning Streamlit, along with a few showcase projects I built along the way.  
-I used modern Python tools like `uv` to keep everything lightweight and efficient. The focus was on building real-world interactive apps using just core libraries like Streamlit, pandas, and numpy — no unnecessary complexity.
+I used modern Python tools like `uv` to keep everything lightweight and efficient. The focus was on building real-world interactive apps using just core libraries like Streamlit, pandas— no unnecessary complexity.
 
 Through these mini-projects, I worked on creating simple UIs, handling real datasets, and building fully functional dashboards — all from just a single Python file per app.
 
